@@ -1,0 +1,21 @@
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows ToolKit by Kassius.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows ToolKit by Kassius.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.UnlockerFrm.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.DupeGuru.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.ContactForm.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.winseced.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.homepage.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.winpv.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.adminacc.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.hpetfrm.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.dynamicticked.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.syntimer.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.hexedit.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows_ToolKit_by_Kassius.takeownership.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\OptimizeTool.Properties.Resources.resources
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\bin\Debug\OptimizeTool.exe.config
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\bin\Debug\OptimizeTool.exe
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\bin\Debug\OptimizeTool.pdb
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\OptimizeTool.exe
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\OptimizeTool.pdb
+C:\Users\berka\source\repos\Windows ToolKit by Kassius\Windows ToolKit by Kassius\obj\Debug\Windows ToolKit by Kassius.csprojAssemblyReference.cache
