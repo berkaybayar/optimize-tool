@@ -46,5 +46,12 @@ namespace Windows_ToolKit_by_Kassius
 
             }
         }
+
+        private void winseced_Load(object sender, EventArgs e)
+        {
+
+        }
+
+      
     }
 }

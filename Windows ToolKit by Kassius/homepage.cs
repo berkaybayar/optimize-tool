@@ -7,11 +7,11 @@ using System.Windows.Forms;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Drawing;
+using System.Globalization;
 
 namespace Windows_ToolKit_by_Kassius
 {
@@ -27,6 +27,7 @@ namespace Windows_ToolKit_by_Kassius
         static extern uint SHEmptyRecycleBin(IntPtr hwnd, string pszRootPath, RecycleFlags dwFlags);
 
         string curdir = Directory.GetCurrentDirectory();
+        
         public homepage()
         {
             InitializeComponent();
@@ -36,14 +37,15 @@ namespace Windows_ToolKit_by_Kassius
         public static string tooldocdir = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\\AppData\\Roaming\\OptimizeTool";
         public static string regdir = tooldocdir + "\\curreg.reg";
         public static string bindir = tooldocdir + "\\opexecute.exe";
-
+        
+        
         String line;
         public static string cmdstr;
         public static void cmdrun()//runs cmd command 
         {
             //before calling this method define the command string in "cmdstr"
             //you can add messagebox afterwards
-
+            
             Process cmd = new Process();
             cmd.StartInfo.FileName = "cmd.exe";
             cmd.StartInfo.RedirectStandardInput = true;
@@ -405,6 +407,8 @@ namespace Windows_ToolKit_by_Kassius
 
         private void button6_Click(object sender, EventArgs e)
         {
+            
+            
             MessageBox.Show("This feature will be added soon!");
             
         }

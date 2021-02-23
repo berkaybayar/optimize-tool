@@ -90,6 +90,7 @@ namespace Windows_ToolKit_by_Kassius
             this.Name = "winseced";
             this.ShowIcon = false;
             this.Text = "Windows Security Service";
+            this.Load += new System.EventHandler(this.winseced_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

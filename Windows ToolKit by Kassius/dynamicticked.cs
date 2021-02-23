@@ -31,5 +31,10 @@ namespace Windows_ToolKit_by_Kassius
             homepage.cmdrun();
             MessageBox.Show("Dynamic Tick successfully set to default.\nPlease restart your computer.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

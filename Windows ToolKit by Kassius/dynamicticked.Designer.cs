@@ -42,6 +42,7 @@ namespace Windows_ToolKit_by_Kassius
             this.button2.TabIndex = 18;
             this.button2.Text = "CANCEL";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -71,6 +72,8 @@ namespace Windows_ToolKit_by_Kassius
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button3);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "dynamicticked";
             this.ShowIcon = false;
             this.Text = "dynamicticked";
